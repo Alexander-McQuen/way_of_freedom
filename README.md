@@ -55,6 +55,18 @@ length , interval
 [ جدیدترین روش استفاده از کانفیگ FRAGMENT با لینک سابسکریشن بدون نیاز به ویرایش کد ساخت بینهایت کاربر ](https://www.youtube.com/watch?v=4L7zajnLtOs)
 
 
+## vless warp fragment 
+1. نصب پنل سنایی
+ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+2.سرتیفیکیت دامنه 
+3.نصب warp go 
+bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
+4.ساخت کانفینگ 
+5.زدن فرگمنت 
+please be advised the best choice for the server is ubuntu 22 , 
+
+
 ## Fragment over DNS
 
 می تونید به کانفیگ تون DNS های شکن رو اضافه کنی
